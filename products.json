@@ -4,7 +4,7 @@
       "sys": { "id": "1" },
       "fields": {
         "title": "queen panel bed",
-        "price": 10.99,
+        "price": 599.99,
         "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
       }
     },
@@ -12,7 +12,7 @@
       "sys": { "id": "2" },
       "fields": {
         "title": "king panel bed",
-        "price": 12.99,
+        "price": 399.99,
         "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
       }
     },
@@ -20,7 +20,7 @@
       "sys": { "id": "3" },
       "fields": {
         "title": "single panel bed",
-        "price": 12.99,
+        "price": 199.99,
         "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
       }
     },
@@ -28,7 +28,7 @@
       "sys": { "id": "4" },
       "fields": {
         "title": "twin panel bed",
-        "price": 22.99,
+        "price": 322.99,
         "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
       }
     },
@@ -36,7 +36,7 @@
       "sys": { "id": "5" },
       "fields": {
         "title": "bosch tall larder fridge",
-        "price": 88.99,
+        "price": 488.99,
         "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
       }
     },
@@ -44,7 +44,7 @@
       "sys": { "id": "6" },
       "fields": {
         "title": "kullen dresser",
-        "price": 32.99,
+        "price": 132.99,
         "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
       }
     },
@@ -52,7 +52,7 @@
       "sys": { "id": "7" },
       "fields": {
         "title": "pacha left facing corner sofa",
-        "price": 45.99,
+        "price": 445.99,
         "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
       }
     },
@@ -60,7 +60,7 @@
       "sys": { "id": "8" },
       "fields": {
         "title": "nordic round oak table",
-        "price": 33.99,
+        "price": 73.99,
         "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
       }
     }
